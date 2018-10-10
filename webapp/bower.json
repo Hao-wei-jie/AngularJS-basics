@@ -1,0 +1,23 @@
+{
+  "name": "webapp",
+  "homepage": "y",
+  "authors": [
+    "Hao-wei-jie <1692974433@qq.com>"
+  ],
+  "description": "angularJS webapp",
+  "main": "",
+  "keywords": [
+    "angularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
+}
